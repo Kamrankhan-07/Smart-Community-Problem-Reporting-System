@@ -1,0 +1,6 @@
+{
+  "name": "Smart Community",
+  "description": "AI-Powered Civic Issue Reporting and Tracking Platform for citizens and municipal administrators.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
